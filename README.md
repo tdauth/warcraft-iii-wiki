@@ -2,10 +2,15 @@
 
 Wiki about modifying the game Warcraft III.
 
-# Formats
+## Expansions
 
-* [SLK](./formats/slk.md)
+- [Warcraft III: The Frozen Throne](The Frozen Throne.md)
+- [Warcraft III Reforged: Forsaken Kingdom](Forsaken Kingdom.md)
 
-# Abilities
+## Formats
 
-* [Gold Mine ability](./abilities/Agld.md)
+- [SLK](./formats/slk.md)
+
+## Abilities
+
+- [Gold Mine ability](./abilities/Agld.md)
